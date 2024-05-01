@@ -1,0 +1,32 @@
+[
+  {
+    "color": "brown",
+    "type": "rat",
+    "size": "big",
+    "name": "Grawwy"
+  },
+  {
+    "color": "gray",
+    "type": "rat",
+    "size": "nano",
+    "name": "Ophelia"
+  },
+  {
+    "color": "white",
+    "type": "rat",
+    "size": "nano",
+    "name": "Hector"
+  },
+  {
+    "color": "gray",
+    "type": "rocky",
+    "size": "nano",
+    "name": "Amberstone"
+  },
+  {
+    "color": "gray",
+    "type": "rocky",
+    "size": "nano",
+    "name": "Rocksanne"
+  }
+]
